@@ -32,6 +32,12 @@ Run the project using uv:
 uv run python-project
 ```
 
+Install package with pip
+
+```bash
+pip install git+https://github.com/jbcool17/python-project.git
+```
+
 ## Docker
 
 Build and run the project in a Docker container:
